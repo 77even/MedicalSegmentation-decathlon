@@ -1,4 +1,4 @@
-# Medical-segmentation-decathlon
+# Medical-Segmentation-decathlon
 Medical Segmentation Decathlon: Effective VNet-based 3D Segmentation Model of the Liver
 
 Project overview；
